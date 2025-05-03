@@ -10,7 +10,6 @@ A machine learning project to predict car selling prices based on various featur
 - RandomForestRegressor
 - Pickle (for model saving)
 
-
-##Author
+## Author
 Arin Talavadekar
  
